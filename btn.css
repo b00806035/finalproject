@@ -1,12 +1,12 @@
 .btn {
-background-color: gray; padding: 25px 20px;
+background-color: black; padding: 25px 20px;
 border-radius: 10px;
 color: white;
 font-weight: bold;
 font-family: 'Roboto', sans-serif;
 }
 .btn-blue {
-background-color: gray;
+background-color: black;
 padding: 25px 20px;
 border-radius: 10px;
 color: white;
