@@ -1,6 +1,6 @@
 .container {
 width: 1000px;
-margin: 75px; }
+margin: 70px; }
 @media (max-width: 1080px) {
 /* For a screen < 1080px, this CSS will be read */ .container {
 width: 1000px; }
