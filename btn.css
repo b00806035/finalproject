@@ -1,14 +1,14 @@
 .btn {
-background-color: lightslategray; padding: 15px 20px;
+background-color: gray; padding: 25px 20px;
 border-radius: 10px;
-color: ghostwhite;
+color: white;
 font-weight: bold;
-font-family: 'Bebas Neue', sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 .btn-blue {
-background-color: black;
-padding: 15px 20px;
+background-color: gray;
+padding: 25px 20px;
 border-radius: 10px;
-color: ghostwhite;
-font-family: 'Bebas Neue', sans-serif; margin: 20px;
+color: white;
+font-family: 'Roboto', sans-serif; margin: 20px;
 }
