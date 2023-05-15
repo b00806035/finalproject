@@ -1,13 +1,13 @@
-@import url(https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Questrial&display=swap);
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto");
 @import url("container.css"); @import url("avatar.css"); @import url("button.css"); @import url("banner.css"); @import url("card.css");
 body {
-font-family: 'Questrial', sans-serif; color: whitesmoke;
-font-size: 20px;
+font-family: 'Lora', sans-serif; color: whitesmoke;
+font-size: 18px;
 font-weight: bold;
 margin: 5px;
-text-align: center; background-color: black;
+text-align: center; background-color: white;
 } h1,h2,h3{
-font-family: 'Bebas Neue', sans-serif; font-size: 40px;
+font-family: 'Roboto', sans-serif; font-size: 30px;
 text-align: center;
 } a{
 text-decoration: none; }
